@@ -1,1 +1,1 @@
-rohitha is learning git & GITHUB
+rohitha learnt git & github
