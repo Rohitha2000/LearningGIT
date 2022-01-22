@@ -2,3 +2,4 @@ The git checkout command lets you navigate between the branches created by git b
 GIT is free open source version control which allows us to keep history of changes.
 Next thing I will be learning is spring boot.
 After that i will learn dsa and then projects and then new high paying job hehe.
+I need to have startup and I need to balance with job.
