@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-rohitha git tutorial
-=======
 Rohitha
 import java.util.Scanner;  
 public class TechNumberExample2  
@@ -15,5 +12,4 @@ n = sc.nextInt();
 //assign the value of n into num  
 num = n;  
 
->>>>>>> codegit
 
