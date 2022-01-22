@@ -1,2 +1,19 @@
+<<<<<<< HEAD
 rohitha git tutorial
+=======
+Rohitha
+import java.util.Scanner;  
+public class TechNumberExample2  
+{  
+public static void main(String args[])  
+{  
+int n, num, firstHalf, secondHalf, digits = 0, squareOfSum = 0;  
+Scanner sc = new Scanner(System.in);  
+System.out.print("Enter a number to check: ");  
+//reads an integer from the user  
+n = sc.nextInt();  
+//assign the value of n into num  
+num = n;  
+
+>>>>>>> codegit
 
