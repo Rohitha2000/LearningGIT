@@ -1,5 +1,9 @@
 
+
+
+
 rohitha git tutorial
+
 
 import java.util.Scanner;  
 public class TechNumberExample2  
